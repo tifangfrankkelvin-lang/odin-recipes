@@ -7,3 +7,5 @@ Below are the skills I'll be testing/improving, so if you come accross this, fee
 3. My ability to follow instructions(How well the results will reflect the task at hand). 
 Here is a link to the task
 https://www.theodinproject.com/lessons/foundations-recipes
+Here is the source of all the recipes and images featured in the project, to which I'm very grateful for contributing massively to the project
+https://www.allrecipes.com
